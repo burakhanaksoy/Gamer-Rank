@@ -1,4 +1,4 @@
-# GJG
+# Gamer-Rank
 https://burakhan-game-ranker.herokuapp.com/docs
 
 In this small project, I used FastAPI to implement a backend service for gaming platform. :octocat:
